@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -49,18 +37,6 @@
       }
     },
     {
-      "id": "8dff",
-      "cityName": "Morella",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2026-01-12T07:06:24.211Z",
-      "notes": "",
-      "position": {
-        "lat": "40.56389453066509",
-        "lng": "0.03190210371920799"
-      }
-    },
-    {
       "id": "7b4c",
       "cityName": "Adzaneta",
       "country": "Spain",
@@ -73,15 +49,63 @@
       }
     },
     {
-      "id": "19ed",
-      "cityName": "Mafra",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2026-01-12T07:09:34.756Z",
+      "id": "4241",
+      "cityName": "Genouillac",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-01-12T21:56:00.664Z",
       "notes": "",
       "position": {
-        "lat": "38.99036995221769",
-        "lng": "-9.224146359876157"
+        "lat": "46.33175800051563",
+        "lng": "1.9805018777365515"
+      }
+    },
+    {
+      "id": "ea33",
+      "cityName": "Cornebarrieu",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-01-12T22:01:53.518Z",
+      "notes": "",
+      "position": {
+        "lat": "43.65203675917646",
+        "lng": "1.305847874322388"
+      }
+    },
+    {
+      "id": "b424",
+      "cityName": "Mercy",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-01-12T22:02:10.563Z",
+      "notes": "",
+      "position": {
+        "lat": "46.44637374854379",
+        "lng": "3.483091943666557"
+      }
+    },
+    {
+      "id": "b6fb",
+      "cityName": "Ragunda",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2026-01-12T22:02:24.217Z",
+      "notes": "",
+      "position": {
+        "lat": "63.25341156651708",
+        "lng": "16.278259868910478"
+      }
+    },
+    {
+      "id": "bc62",
+      "cityName": "Pechengskiy Rayon",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2026-01-12T22:02:27.975Z",
+      "notes": "",
+      "position": {
+        "lat": "69.29599974656062",
+        "lng": "30.84860970852301"
       }
     }
   ]
