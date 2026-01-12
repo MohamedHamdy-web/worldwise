@@ -49,18 +49,6 @@
       }
     },
     {
-      "id": "caff",
-      "cityName": "Schorfheide",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2026-01-12T02:30:01.413Z",
-      "notes": "",
-      "position": {
-        "lat": "52.9751081817353",
-        "lng": "13.517650934409758"
-      }
-    },
-    {
       "id": "ca05",
       "cityName": "Vall d'Alba",
       "country": "Spain",
@@ -70,66 +58,6 @@
       "position": {
         "lat": "40.19356109815612",
         "lng": "-0.05052314528679825"
-      }
-    },
-    {
-      "id": "060e",
-      "cityName": "Calamocha",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2026-01-12T02:38:07.466Z",
-      "notes": "test22",
-      "position": {
-        "lat": "41.00477542222949",
-        "lng": "-1.2941562008480603"
-      }
-    },
-    {
-      "id": "9a47",
-      "cityName": "Andosilla",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2026-01-12T02:38:07.466Z",
-      "notes": "test22",
-      "position": {
-        "lat": "42.391008609205045",
-        "lng": "-1.909560573443621"
-      }
-    },
-    {
-      "id": "7fc7",
-      "cityName": "Macao",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2026-01-12T02:38:07.466Z",
-      "notes": "test23",
-      "position": {
-        "lat": "39.58875727696545",
-        "lng": "-8.079494404318455"
-      }
-    },
-    {
-      "id": "1298",
-      "cityName": "Pacos de Ferreira",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2026-01-12T02:40:18.808Z",
-      "notes": "navigate",
-      "position": {
-        "lat": "41.27780646738183",
-        "lng": "-8.35814288067505"
-      }
-    },
-    {
-      "id": "5b94",
-      "cityName": "Albocasser",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2026-01-12T02:46:19.403Z",
-      "notes": "",
-      "position": {
-        "lat": "40.3810745182893",
-        "lng": "-0.02989926116844011"
       }
     }
   ]
