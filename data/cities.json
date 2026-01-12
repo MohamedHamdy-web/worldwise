@@ -37,27 +37,51 @@
       "id": "98443197"
     },
     {
-      "id": "1e7d",
-      "cityName": "Schorfheide",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2026-01-12T02:30:01.413Z",
+      "id": "5c98",
+      "cityName": "Cuevas de Vinroma",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-01-12T07:06:20.603Z",
       "notes": "",
       "position": {
-        "lat": "52.9751081817353",
-        "lng": "13.517650934409758"
+        "lat": "40.33607687246644",
+        "lng": "0.05947090334438522"
       }
     },
     {
-      "id": "ca05",
-      "cityName": "Vall d'Alba",
+      "id": "8dff",
+      "cityName": "Morella",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2026-01-12T02:32:33.846Z",
-      "notes": "test",
+      "date": "2026-01-12T07:06:24.211Z",
+      "notes": "",
       "position": {
-        "lat": "40.19356109815612",
-        "lng": "-0.05052314528679825"
+        "lat": "40.56389453066509",
+        "lng": "0.03190210371920799"
+      }
+    },
+    {
+      "id": "7b4c",
+      "cityName": "Adzaneta",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-01-12T07:07:55.823Z",
+      "notes": "",
+      "position": {
+        "lat": "40.20824570152502",
+        "lng": "-0.1660168963495479"
+      }
+    },
+    {
+      "id": "19ed",
+      "cityName": "Mafra",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2026-01-12T07:09:34.756Z",
+      "notes": "",
+      "position": {
+        "lat": "38.99036995221769",
+        "lng": "-9.224146359876157"
       }
     }
   ]
